@@ -8,10 +8,13 @@ Pipenv
 # Getting started
 Clone the project to your machine [git clone https://github.com/gauravjoshi1998/E-Learning-website]
 Navigate into the diretory [cd E-Learning-website]
+
 Source the virtual environment [pipenv shell]
 Install the dependencies [pipenv install]
+
 Navigate into the frontend directory [cd frontend]
 Install the dependencies [npm install]
+
 # Run the application
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
 
