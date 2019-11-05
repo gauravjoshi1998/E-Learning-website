@@ -9,7 +9,7 @@ Pipenv
 # Getting started
 Clone the project to your machine [git clone https://github.com/gauravjoshi1998/E-Learning-website]
 
-Navigate into the diretory [cd E-Learning-website]
+Navigate into the directory [cd E-Learning-website]
 
 Source the virtual environment [pipenv shell]
 Install the dependencies [pipenv install]
