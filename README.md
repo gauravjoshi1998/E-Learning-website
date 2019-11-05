@@ -4,9 +4,11 @@ This is a simple E-Learning website built off Django (including the Django REST 
 
 # Requirements
 Python3
+
 Pipenv
 # Getting started
 Clone the project to your machine [git clone https://github.com/gauravjoshi1998/E-Learning-website]
+
 Navigate into the diretory [cd E-Learning-website]
 
 Source the virtual environment [pipenv shell]
