@@ -15,7 +15,7 @@ Install the dependencies [pipenv install]
 Navigate into the frontend directory [cd frontend]
 Install the dependencies [npm install]
 
-# Run the application
+# Run the site
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
 
 Run this command to start the backend server in the [backend] directory: [python3 manage.py runserver] (You have to run this command while you are sourced into the virtual environment)
